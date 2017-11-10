@@ -7,6 +7,7 @@ set hlsearch
 set backspace=indent,eol,start
 set laststatus=2
 set mouse=a
+set autoindent
 
 " yank to clipboard
 if has("clipboard")
